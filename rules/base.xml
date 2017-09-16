@@ -5572,6 +5572,12 @@
         </languageList>
       </configItem>
       <variantList>
+	<variant>
+	  <configItem>
+	    <name>umlaut</name>
+	    <description>English (UK, with German umlauts)</description>
+	  </configItem>
+	</variant>
         <variant>
           <configItem>
             <name>extd</name>
